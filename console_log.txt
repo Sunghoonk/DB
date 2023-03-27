@@ -1,0 +1,6 @@
+Reading this CSV file: data/external/aware_csv/calls.csv
+stream_parameters: data/external/aware_csv
+device: a748ee1a-1d0b-4ae9-9074-279a2b6ba524
+sensor: PHONE_CALLS
+sensor_container: calls.csv
+columns: timestampcolumns: device_idcolumns: call_typecolumns: call_durationcolumns: trace
